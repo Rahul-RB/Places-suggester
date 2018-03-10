@@ -1,0 +1,413 @@
+['Good ambience and polite staff.', 'Service is quick and the staff takes times to answer all queries regarding the menu.', 'Above all, the food is brilliant.', 'Great place to visit with family and friends.', 'The place is kid friendly as well.']
+Good ambience and polite staff.
+Service is quick and the staff takes times to answer all queries regarding the menu.
+Above all, the food is brilliant.
+Great place to visit with family and friends.
+The place is kid friendly as well.
+['Good ambience and very well spoken staff from the north east India.', 'I had grilled salmon and mashed potato with a white sauce made of cream and spinach.', 'The dish was really nice.', 'The feedback I got from others about the food they had (they had lamb and pork) was equally good.', 'Veg food had good starter options but not sure about the main course.', 'Overall a very good place for dinner or lunch for a family or a couple especially if you u enjoy good non-veg food.']
+Good ambience and very well spoken staff from the north east India.
+I had grilled salmon and mashed potato with a white sauce made of cream and spinach.
+The dish was really nice.
+The feedback I got from others about the food they had (they had lamb and pork) was equally good.
+Veg food had good starter options but not sure about the main course.
+Overall a very good place for dinner or lunch for a family or a couple especially if you u enjoy good non-veg food.
+['Comfortable and cozy place.', 'Staff is very polite and friendly.', 'Always love the food they serve.', 'Complimentary warm bread and tasty butter.', 'All dishes we ordered were delicious.']
+Comfortable and cozy place.
+Staff is very polite and friendly.
+Always love the food they serve.
+Complimentary warm bread and tasty butter.
+All dishes we ordered were delicious.
+['Everything is delicious, the food and wines are delicious and worth every rupee.', 'You pay for quality and quantity at Chianti (Ki-an-tee).', 'The ambience is pleasant and the service excellent.']
+Everything is delicious, the food and wines are delicious and worth every rupee.
+You pay for quality and quantity at Chianti (Ki-an-tee).
+The ambience is pleasant and the service excellent.
+['Just amazing authentic Italian food.', 'Haven’t had such good Italian food in a very long time.', 'Every dish we called for was delicious.']
+Just amazing authentic Italian food.
+Haven’t had such good Italian food in a very long time.
+Every dish we called for was delicious.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117}
+['Roof top restaurant.', 'Food is primarily chinese.', 'We had buffet.', 'It was ok, but not extraordinary.', 'Ambience is good.', 'Very good location too.']
+Roof top restaurant.
+Food is primarily chinese.
+We had buffet.
+It was ok, but not extraordinary.
+Ambience is good.
+Very good location too.
+[]
+[]
+['Casual place.', '.']
+Casual place.
+['Excellent food.']
+Excellent food.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444}
+['After it has changed to Kaveri Family restaurant, the quality is dropping slowly.', 'Recently went there with my wife and we were completely disappointed with all the items.']
+After it has changed to Kaveri Family restaurant, the quality is dropping slowly.
+Recently went there with my wife and we were completely disappointed with all the items.
+[]
+['Good food.', 'Authentic local cuisine.']
+Good food.
+Authentic local cuisine.
+['Kebab they served was the worst experience.', 'Biryani is ok for the price.']
+Kebab they served was the worst experience.
+Biryani is ok for the price.
+['Worth the money.', 'Quick service for non veg items.']
+Worth the money.
+Quick service for non veg items.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359}
+['Food is good but sometimes it may not be good also.', '.', '.']
+Food is good but sometimes it may not be good also.
+['Was here with family , we are big Biryani lovers .', 'Found a huge insect in the food , it was taken back .', 'The owner dint even say sorry and just gave me bad looks as if I put it there .', 'Things like this do happen but , u must at least apologise very disappointed .']
+Was here with family , we are big Biryani lovers .
+Found a huge insect in the food , it was taken back .
+The owner dint even say sorry and just gave me bad looks as if I put it there .
+Things like this do happen but , u must at least apologise very disappointed .
+[]
+['Worst service  Asked for butter chicken but idiots gave gravy which without chicken.']
+Worst service  Asked for butter chicken but idiots gave gravy which without chicken.
+['The non veg lovers need to try a food at this restaurant, I had been with my friends they served the best chicken biryani that I ever tasted.', 'The price is reasonable.']
+The non veg lovers need to try a food at this restaurant, I had been with my friends they served the best chicken biryani that I ever tasted.
+The price is reasonable.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002}
+['Nagarjuna is probably one of the best places to go for Andhra Meals in Bangalore.', 'Service and food are good.', 'Lunch time can get a little crowded and one might have to wait a little before getting a table even though there are two floors.', 'Valet parking is available for cars and there is ample parking space for two wheelers.']
+Nagarjuna is probably one of the best places to go for Andhra Meals in Bangalore.
+Service and food are good.
+Lunch time can get a little crowded and one might have to wait a little before getting a table even though there are two floors.
+Valet parking is available for cars and there is ample parking space for two wheelers.
+['Typical Andhra restaurant.', 'Spicy food.', 'Getting a table here on weekends would be a challenge.', 'The Andhra meals here are great.', 'The prices are reasonable.', 'Would suggest you to have the meals if you want to try a typical South Indian meal.']
+Typical Andhra restaurant.
+Spicy food.
+Getting a table here on weekends would be a challenge.
+The Andhra meals here are great.
+The prices are reasonable.
+Would suggest you to have the meals if you want to try a typical South Indian meal.
+['The food was very nice and the starters were all wonderful.', "I suppose the veg thali wasn't absolutely mind-blowing, thus the four stars.", 'But a lovely experience.']
+The food was very nice and the starters were all wonderful.
+I suppose the veg thali wasn't absolutely mind-blowing, thus the four stars.
+But a lovely experience.
+['Good Andhra food is available.', 'The place is clean and well maintained.', 'We ordered a meal and all the items are cooked in a tasty way.', 'Generally no advanced reservations are required to dine at this place.', 'There is no live music at this place.']
+Good Andhra food is available.
+The place is clean and well maintained.
+We ordered a meal and all the items are cooked in a tasty way.
+Generally no advanced reservations are required to dine at this place.
+There is no live music at this place.
+['Authentic South Indian food.', 'Their fish items are great.', 'Food quantities are very very good.', 'Only flip side is they crowded most of the times.']
+Authentic South Indian food.
+Their fish items are great.
+Food quantities are very very good.
+Only flip side is they crowded most of the times.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303}
+['Nice restaurant with an agreeable atmosphere.', 'Familiar for hot spicy food menus.', 'I have tried many items on the menu and all were excellent.', 'Thumbs up to the team.']
+Nice restaurant with an agreeable atmosphere.
+Familiar for hot spicy food menus.
+I have tried many items on the menu and all were excellent.
+Thumbs up to the team.
+['Known for its spicy Andhra food, Kritunga has been serving in Marathahalli for a long time.', 'Parking : They do have an empty ground next to the building which can be used for parking  Menu : They have good varieties especially in non vegetarian category  Service : Thanks to their huge crew, service has always been quick  Cost : Neither too expensive nor too cheap.', 'Worthy for quantity and taste.', 'Ambience : Looks packed.', 'Simple and decent interiors.']
+Known for its spicy Andhra food, Kritunga has been serving in Marathahalli for a long time.
+Parking : They do have an empty ground next to the building which can be used for parking  Menu : They have good varieties especially in non vegetarian category  Service : Thanks to their huge crew, service has always been quick  Cost : Neither too expensive nor too cheap.
+Worthy for quantity and taste.
+Ambience : Looks packed.
+Simple and decent interiors.
+['Boneless biryani is very nice.', '.', "but don't go on Sundays if you don't like crowded places."]
+Boneless biryani is very nice.
+but don't go on Sundays if you don't like crowded places.
+['We have to wait for minimum half an hour to get Dinning Seats.', 'Then we have to wait for the food.']
+We have to wait for minimum half an hour to get Dinning Seats.
+Then we have to wait for the food.
+['Go ahead, if your tongue is craving for something very spicy.', '.', '.', 'the ambiance is ok.', '.', 'the taste of food( I have only tried non veg there) is really great.', '.']
+Go ahead, if your tongue is craving for something very spicy.
+the ambiance is ok.
+the taste of food( I have only tried non veg there) is really great.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+['This place is the MOTHER of desi Chinese grub.', 'The pork is amazing, the tom yum soup will make your eyes water and the special fried rice is to die for.', "Pricing: couldn't be cheaper.", 'Ambience: what do u expect?', '(Not too bad).', 'Full points.']
+This place is the MOTHER of desi Chinese grub.
+The pork is amazing, the tom yum soup will make your eyes water and the special fried rice is to die for.
+Pricing: couldn't be cheaper.
+Ambience: what do u expect?
+(Not too bad).
+Full points.
+['Great place for cheap, tasty, unpretentious Chinese food.', "It's rather poorly lit, and probably hasn't had a renovation since the early '90s, but don't let that put you off.", "It's comfortable, homely, the food is good, and the hosts are warm and friendly."]
+Great place for cheap, tasty, unpretentious Chinese food.
+It's rather poorly lit, and probably hasn't had a renovation since the early '90s, but don't let that put you off.
+It's comfortable, homely, the food is good, and the hosts are warm and friendly.
+['One of the oldest Chinese places in Bangalore.', 'Very budget friendly quaint place that exudes the old world charm.', 'The food is tasty.', 'The best noodles we have tasted so far.', 'The staff is fast and friendly.', 'It can get really crowded on the weekends.', 'Good for takeaway too.']
+One of the oldest Chinese places in Bangalore.
+Very budget friendly quaint place that exudes the old world charm.
+The food is tasty.
+The best noodles we have tasted so far.
+The staff is fast and friendly.
+It can get really crowded on the weekends.
+Good for takeaway too.
+['Beautiful place and decent budget hotel.']
+Beautiful place and decent budget hotel.
+['Always great food - standard.', 'Chinese food in India is different from the same in China.', 'Especially if you have ever visited Tangra region in Kolkata, you will know what I mean.', 'The owner of Wanely, is basically from the same area and you get the same taste here.', "It's like a mini Kolkata.", 'Also, the owner is a very interesting person - not much interested in business expansion - just happy with what is happening there.']
+Always great food - standard.
+Chinese food in India is different from the same in China.
+Especially if you have ever visited Tangra region in Kolkata, you will know what I mean.
+The owner of Wanely, is basically from the same area and you get the same taste here.
+It's like a mini Kolkata.
+Also, the owner is a very interesting person - not much interested in business expansion - just happy with what is happening there.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+['Food is good few items are really tasty.', "But avoid on  Sundays as it's really crowded.", "There's always waiting on Sunday.", "If you can wait for 20-30 mins then it's fine.", 'Service is average not too fast not very slow.', "Overall it's a very nice upscale place in layout, MUST VISIT."]
+Food is good few items are really tasty.
+But avoid on  Sundays as it's really crowded.
+There's always waiting on Sunday.
+If you can wait for 20-30 mins then it's fine.
+Service is average not too fast not very slow.
+Overall it's a very nice upscale place in layout, MUST VISIT.
+['We tried a few non vegetarian items and loved it.', 'Chicken Lollipops, Fried Chicken and Chicken Biryani, everything was really good.', 'In fact their fried chicken is better than that of KFC 😛 Biryani was spicy and really tasty.', 'Their service was quick and prices were reasonable.', 'Good place to take your family to.']
+We tried a few non vegetarian items and loved it.
+Chicken Lollipops, Fried Chicken and Chicken Biryani, everything was really good.
+In fact their fried chicken is better than that of KFC 😛 Biryani was spicy and really tasty.
+Their service was quick and prices were reasonable.
+Good place to take your family to.
+['Nice place to eat.', 'But service is slow.', 'Food is not very tasty.']
+Nice place to eat.
+But service is slow.
+Food is not very tasty.
+['Best restaurant in Kumaraswamy layout  Mouth watering Prawns, Arabic and Chinese  Good crowd to watch around!']
+Best restaurant in Kumaraswamy layout  Mouth watering Prawns, Arabic and Chinese  Good crowd to watch around!
+['Food is good and so is place.']
+Food is good and so is place.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716}
+['Nice and quit ambience, food is good but little too much rich in the creamyness.']
+Nice and quit ambience, food is good but little too much rich in the creamyness.
+['Good one, but expected more.', 'Food is good, but considering cost, it is average.', 'Service is fast.']
+Good one, but expected more.
+Food is good, but considering cost, it is average.
+Service is fast.
+['Good ambience but very average tasting food.']
+Good ambience but very average tasting food.
+[]
+[]
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716}
+['Very tasty and good food.', 'Service was also alright.']
+Very tasty and good food.
+Service was also alright.
+['Awesome and tasty starters.', 'Specially chicken Tikka and mutton seek kebabs.', 'Service is also great.', 'Keep up the good work.']
+Awesome and tasty starters.
+Specially chicken Tikka and mutton seek kebabs.
+Service is also great.
+Keep up the good work.
+[]
+[]
+[]
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716}
+["Great rooftop but service and menu don't match up to it - We had reserved this place for a Friday evening team dinner.", 'The roof top ambience was really amazing.', 'We reached around 7pm the manager led us to the table that was reserved for us.', 'We waited quite a while for them to serve the starters and the welcome drink.', 'All of us were surprised at the service speed, it took ages for them to serve the dishes.', 'Now coming to the variety it was very minimalist with 3 Veg and 3 Non-Veg starters.', 'The main course spread was also limited.', 'It was a big disappointment not worth the money.']
+Great rooftop but service and menu don't match up to it - We had reserved this place for a Friday evening team dinner.
+The roof top ambience was really amazing.
+We reached around 7pm the manager led us to the table that was reserved for us.
+We waited quite a while for them to serve the starters and the welcome drink.
+All of us were surprised at the service speed, it took ages for them to serve the dishes.
+Now coming to the variety it was very minimalist with 3 Veg and 3 Non-Veg starters.
+The main course spread was also limited.
+It was a big disappointment not worth the money.
+['Service was not good.', 'Less main course.', 'Ambience and place was good.']
+Service was not good.
+Less main course.
+Ambience and place was good.
+['We had great service and at 1/4 the price, this would be a 5 star review.', 'However, the degustation menu was well in excess of €200 each and at this price and our first visit to a Michelin 3 star we expected more.', 'Good - service was excellent, breads were superb, very nice ambiance, plating and presentation are 1st class, cheese selection was outstanding, desserts were pretty good  Bad - price, many dishes had underdeveloped flavors, fairly boring ingredients (asparagus, beef sirloin, etc.', ")  All in all it's a good meal with first class service.", 'But we expected a Michelin 3 star to be more than a good meal.', "For us, it wasn't our best meal of the day and as far as haute French Dining go, we prefer the French Room in Dallas."]
+We had great service and at 1/4 the price, this would be a 5 star review.
+However, the degustation menu was well in excess of €200 each and at this price and our first visit to a Michelin 3 star we expected more.
+Good - service was excellent, breads were superb, very nice ambiance, plating and presentation are 1st class, cheese selection was outstanding, desserts were pretty good  Bad - price, many dishes had underdeveloped flavors, fairly boring ingredients (asparagus, beef sirloin, etc.
+)  All in all it's a good meal with first class service.
+But we expected a Michelin 3 star to be more than a good meal.
+For us, it wasn't our best meal of the day and as far as haute French Dining go, we prefer the French Room in Dallas.
+[]
+[]
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716}
+[]
+['Great place .', '.', '.']
+Great place .
+['Great selection of eateries.', '.', '.', 'Fulfill every food craving possible.']
+Great selection of eateries.
+Fulfill every food craving possible.
+[]
+[]
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJB46vR9UVrjsRCU3RNOIohBI': 0.7966857619047619, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+['Veg food ok.', '.', "Don't try fish here.", '.', "it sucks Don't buy fish if it's displayed as today's special .", "It's old fish which they couldn't sell in that week.", 'Chicken dishes were moderate.', 'Nothing fancy about this place , but still they charge you more.', 'No A/c, only water fans to make cool atmosphere.']
+Veg food ok.
+Don't try fish here.
+it sucks Don't buy fish if it's displayed as today's special .
+It's old fish which they couldn't sell in that week.
+Chicken dishes were moderate.
+Nothing fancy about this place , but still they charge you more.
+No A/c, only water fans to make cool atmosphere.
+['Always crowded.', '.', 'but food is really nice.', '.', 'Simple Rice, Dal and Roti can satisfy your hunger and make your soul happy here.', 'Service can be improved.']
+Always crowded.
+but food is really nice.
+Simple Rice, Dal and Roti can satisfy your hunger and make your soul happy here.
+Service can be improved.
+['I went there with my crew for shooting a short film.', '.', '.', '.', 'The place is very specious.', '.', '.', 'But the best part is courtesy if the staff and manager.', '.', '.', 'I was already touched by the hospitality and then later arrived the food.', '.', '.', 'Yummy and good looking.', '.', '.', '.', 'Keep it up.', '.', 'I will recommend.']
+I went there with my crew for shooting a short film.
+The place is very specious.
+But the best part is courtesy if the staff and manager.
+I was already touched by the hospitality and then later arrived the food.
+Yummy and good looking.
+Keep it up.
+I will recommend.
+['Good place for north Indian food.', 'The cooks here at from north itself mainly Bengali.', 'Situated opp to Sakra hospital.']
+Good place for north Indian food.
+The cooks here at from north itself mainly Bengali.
+Situated opp to Sakra hospital.
+['Very tasty food.', 'Service is slow.', 'Less parking space.', 'Nearby Sakara Hospital belandur.']
+Very tasty food.
+Service is slow.
+Less parking space.
+Nearby Sakara Hospital belandur.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJ4Z-d36UTrjsR9IMvMQs2mps': -0.12430896626984131, 'ChIJB46vR9UVrjsRCU3RNOIohBI': 0.7966857619047619, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+['The service was really good for us.', '.', 'we had booked the 1st floor party hall.', '.', 'the ambience was good enough too.', 'The location is a bit noisy as its adjacent to Bannerghatta main road.', 'Food isnt exceptionally good or anything but its pretty good enough.', 'atleast more than what we expected.', '.', 'we had come as a corporate group and the setting they had made for us was really good.']
+The service was really good for us.
+we had booked the 1st floor party hall.
+the ambience was good enough too.
+The location is a bit noisy as its adjacent to Bannerghatta main road.
+Food isnt exceptionally good or anything but its pretty good enough.
+atleast more than what we expected.
+we had come as a corporate group and the setting they had made for us was really good.
+['Very good food.', 'Very nice place.', 'Will come back soon.']
+Very good food.
+Very nice place.
+Will come back soon.
+['great service by mr.', 'vinay and prasanna, liked personal attendance.', 'good food too.', 'dr.']
+great service by mr.
+vinay and prasanna, liked personal attendance.
+good food too.
+dr.
+['Quick service, Tasty food and nice ambiance.', 'Perfect place for friends and even families as well.', 'The food is affordable and the place is neat.']
+Quick service, Tasty food and nice ambiance.
+Perfect place for friends and even families as well.
+The food is affordable and the place is neat.
+['Regular visitor here for the last 10years.', '.', '.', 'off late the place is more suitable for bar, than a family dinner.', 'But the pepper chicken tastes the same all through this year.', 'Awesome pepper chicken.', '.', '.']
+Regular visitor here for the last 10years.
+off late the place is more suitable for bar, than a family dinner.
+But the pepper chicken tastes the same all through this year.
+Awesome pepper chicken.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJ4Z-d36UTrjsR9IMvMQs2mps': -0.12430896626984131, 'ChIJZzX0CzIVrjsRj5qDgNmmFdk': 0.4237541904761906, 'ChIJB46vR9UVrjsRCU3RNOIohBI': 0.7966857619047619, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+['Such a poor quality.', "They must know double the spice doesn't make the food tasty.", 'They just ruined their brand name in no time with their poor quality.']
+Such a poor quality.
+They must know double the spice doesn't make the food tasty.
+They just ruined their brand name in no time with their poor quality.
+['This is assumed to be one of the best Andra restaurant.', "Unfortunately it's not.", '!', '!', 'Ambience is not good.', 'Seating looks bit conjusted.', 'Service is moderate.', 'Food quality, I think all taste masked by spice.', 'So nobody feel the actual taste!', '!', 'If u still feel,  can recognise there s nothing in it.']
+This is assumed to be one of the best Andra restaurant.
+Unfortunately it's not.
+Ambience is not good.
+Seating looks bit conjusted.
+Service is moderate.
+Food quality, I think all taste masked by spice.
+So nobody feel the actual taste!
+If u still feel,  can recognise there s nothing in it.
+['Extreme spicy.', 'Careful while testing heavy food.', 'Suffered from stomach problems for a day.', '.', 'food was good and cost is normal for multicuisine restaurant.', '.']
+Extreme spicy.
+Careful while testing heavy food.
+Suffered from stomach problems for a day.
+food was good and cost is normal for multicuisine restaurant.
+["They named it as a Rayalaseema Restaurant but that doesn't mean that food has to be so spicy that you will be even afraid to taste it.", 'If they reduce the spice a bit then it may improve in serving and attracting meat Lovers.']
+They named it as a Rayalaseema Restaurant but that doesn't mean that food has to be so spicy that you will be even afraid to taste it.
+If they reduce the spice a bit then it may improve in serving and attracting meat Lovers.
+['Great food.', 'Ambience is average but there Biriyanis are really good.', 'N they also have some really good dishes like bamboo chicken, Gongura chicken curry.', '.', '.', 'Must try at least once but.', '.', '.', 'The food is spicy as with most Rayalaseema cuisine.', '.', 'So just a heads up.']
+Great food.
+Ambience is average but there Biriyanis are really good.
+N they also have some really good dishes like bamboo chicken, Gongura chicken curry.
+Must try at least once but.
+The food is spicy as with most Rayalaseema cuisine.
+So just a heads up.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJ4Z-d36UTrjsR9IMvMQs2mps': -0.12430896626984131, 'ChIJZzX0CzIVrjsRj5qDgNmmFdk': 0.4237541904761906, 'ChIJn2icKU4UrjsR04FZVwZ9E0I': -0.001259174747474802, 'ChIJB46vR9UVrjsRCU3RNOIohBI': 0.7966857619047619, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+['Terrible service.', 'Never take any food as take away, especially non-veg.', '.', '.', 'Only rice was packed with bones.', '.', '.', 'Bought 3 mutton biryani as takeaway, all we had was bone and no flesh.', "Doesn't deserve to be a 5 star restaurant.", 'PLEASE DONT GO TO THIS PLACE, ITS VERY SELFISH OF THEM.']
+Terrible service.
+Never take any food as take away, especially non-veg.
+Only rice was packed with bones.
+Bought 3 mutton biryani as takeaway, all we had was bone and no flesh.
+Doesn't deserve to be a 5 star restaurant.
+PLEASE DONT GO TO THIS PLACE, ITS VERY SELFISH OF THEM.
+['Tasty spicy authentic Andhra cuisine.', 'Good for veg and non veg lovers.', 'Alcohol service available in family dining as well as non alcoholic separate family dining available.']
+Tasty spicy authentic Andhra cuisine.
+Good for veg and non veg lovers.
+Alcohol service available in family dining as well as non alcoholic separate family dining available.
+['Took 2 veg Andhra meals very poor quality and taste, price is very high paid 378 for 2.']
+Took 2 veg Andhra meals very poor quality and taste, price is very high paid 378 for 2.
+['Quality is good but quantity is very less.', 'Even interior also not good.', 'They have to maintain it properly.']
+Quality is good but quantity is very less.
+Even interior also not good.
+They have to maintain it properly.
+[]
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJ4Z-d36UTrjsR9IMvMQs2mps': -0.12430896626984131, 'ChIJZzX0CzIVrjsRj5qDgNmmFdk': 0.4237541904761906, 'ChIJn2icKU4UrjsR04FZVwZ9E0I': -0.001259174747474802, 'ChIJUUSLnpI9rjsRGQuAAkCJSdY': -0.07017900980392155, 'ChIJB46vR9UVrjsRCU3RNOIohBI': 0.7966857619047619, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+[]
+['The place is spacious.', 'Can accomodate a lot of people.', 'The service is a bit slow.', 'Usually it takes minimum 10 minutes to get an item during lunch hours.', 'South indian food is very good.', 'North Indian not so good.', 'Good for lunch though.']
+The place is spacious.
+Can accomodate a lot of people.
+The service is a bit slow.
+Usually it takes minimum 10 minutes to get an item during lunch hours.
+South indian food is very good.
+North Indian not so good.
+Good for lunch though.
+[]
+['Good food as always expected fro.', 'Indian coffee house.', 'Well mannered staff.']
+Good food as always expected fro.
+Indian coffee house.
+Well mannered staff.
+['Inexpensive, good food.', 'For people with a sweet tooth, order the French toast !']
+Inexpensive, good food.
+For people with a sweet tooth, order the French toast !
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJ4Z-d36UTrjsR9IMvMQs2mps': -0.12430896626984131, 'ChIJZzX0CzIVrjsRj5qDgNmmFdk': 0.4237541904761906, 'ChIJn2icKU4UrjsR04FZVwZ9E0I': -0.001259174747474802, 'ChIJUUSLnpI9rjsRGQuAAkCJSdY': -0.07017900980392155, 'ChIJywqu0VEUrjsRzlpMZG7hsnE': 0.4814101944444444, 'ChIJB46vR9UVrjsRCU3RNOIohBI': 0.7966857619047619, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+['Food is nice and cheap.', 'No parking facility.', 'Very congested.', 'You can enjoy only if you are a foodie ☺️.']
+Food is nice and cheap.
+No parking facility.
+Very congested.
+You can enjoy only if you are a foodie ☺️.
+['Best place to spend time for the people who love keralian cuisine and also for chai lovers.', 'Evokes nostalgia.', 'The is so refreshing u forget the stress if the day.', 'Must have tea every day place.']
+Best place to spend time for the people who love keralian cuisine and also for chai lovers.
+Evokes nostalgia.
+The is so refreshing u forget the stress if the day.
+Must have tea every day place.
+['Drop by, if u want to savor popular and traditional evening snacks from Kerala.', 'It is a popular pit-stop for techies before heading off to work in the ITPL area.', 'Best time to visit here would be from 3 PM to 5 PM to avail "freshly made" snacks.']
+Drop by, if u want to savor popular and traditional evening snacks from Kerala.
+It is a popular pit-stop for techies before heading off to work in the ITPL area.
+Best time to visit here would be from 3 PM to 5 PM to avail "freshly made" snacks.
+['South Indian restaurant with good food tastes and has decent amount of non veg varieties.', '.', '.', 'Try for some good Kerala style food as well.', '.', '.', 'Near marathahalli junction and bridge.', '.', '.', 'Price range is bit high.', '.']
+South Indian restaurant with good food tastes and has decent amount of non veg varieties.
+Try for some good Kerala style food as well.
+Near marathahalli junction and bridge.
+Price range is bit high.
+['Nice place.', 'A good option to taste some Northern Kerala food.', 'Feels like home.']
+Nice place.
+A good option to taste some Northern Kerala food.
+Feels like home.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJ62XomDMSrjsRAUc663qoLls': 0.55437162, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJ4Z-d36UTrjsR9IMvMQs2mps': -0.12430896626984131, 'ChIJZzX0CzIVrjsRj5qDgNmmFdk': 0.4237541904761906, 'ChIJn2icKU4UrjsR04FZVwZ9E0I': -0.001259174747474802, 'ChIJUUSLnpI9rjsRGQuAAkCJSdY': -0.07017900980392155, 'ChIJywqu0VEUrjsRzlpMZG7hsnE': 0.4814101944444444, 'ChIJB46vR9UVrjsRCU3RNOIohBI': 0.7966857619047619, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+['Not worth it at all.', 'Almost like home food.', "The quality isn't that brilliant.", "Might be healthy that's all.", 'But otherwise lacks everything.', 'Not many options either.', "But perhaps their cuisine doesn't have much to offer either.", 'The food at many times feels bland.']
+Not worth it at all.
+Almost like home food.
+The quality isn't that brilliant.
+Might be healthy that's all.
+But otherwise lacks everything.
+Not many options either.
+But perhaps their cuisine doesn't have much to offer either.
+The food at many times feels bland.
+['Tuesday lunch and dinner is not much good depending on the price they will make the food variety and taste.', 'management is not good.', "Please don't go on Tuesdays."]
+Tuesday lunch and dinner is not much good depending on the price they will make the food variety and taste.
+management is not good.
+Please don't go on Tuesdays.
+['One of the best place to dine with family.', '.', '.', 'Good food and service too.', '.', '.']
+One of the best place to dine with family.
+Good food and service too.
+['Went on Tuesday, thali is just 250 rs, its worth it.', 'If you are a Dal baati churma fan you must visit, apart from that other stuffs are just ok ok.', 'Nothing that great.']
+Went on Tuesday, thali is just 250 rs, its worth it.
+If you are a Dal baati churma fan you must visit, apart from that other stuffs are just ok ok.
+Nothing that great.
+['Visited first time but awesome experience with traditional food like daal baati churma had first time.', '.', '.', 'food is very delicious.', 'Must visit atleast once.', '.', 'i will be coming soon Rajdhani!']
+Visited first time but awesome experience with traditional food like daal baati churma had first time.
+food is very delicious.
+Must visit atleast once.
+i will be coming soon Rajdhani!
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJdYNYWs1qrjsRNVaozqTgWow': 0.18526386296296296, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJ62XomDMSrjsRAUc663qoLls': 0.55437162, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJ4Z-d36UTrjsR9IMvMQs2mps': -0.12430896626984131, 'ChIJZzX0CzIVrjsRj5qDgNmmFdk': 0.4237541904761906, 'ChIJn2icKU4UrjsR04FZVwZ9E0I': -0.001259174747474802, 'ChIJUUSLnpI9rjsRGQuAAkCJSdY': -0.07017900980392155, 'ChIJywqu0VEUrjsRzlpMZG7hsnE': 0.4814101944444444, 'ChIJB46vR9UVrjsRCU3RNOIohBI': 0.7966857619047619, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222}
+[]
+['I will never order biriyani again.', '.', 'Therw was no taste.', 'Qulity qnd quntity both not good.', '.']
+I will never order biriyani again.
+Therw was no taste.
+Qulity qnd quntity both not good.
+['Pros:Kolkata katti rolls are good.']
+Pros:Kolkata katti rolls are good.
+['Excellent meats.', 'Slow service and a small place.']
+Excellent meats.
+Slow service and a small place.
+['Good north Indian food.', '.', '.']
+Good north Indian food.
+{'ChIJwTjQW0EUrjsRIRf9d3YjyK4': 0.826278304383117, 'ChIJrfy8a3UTrjsRtRMAW7HIIGU': 0.2339794444444444, 'ChIJdYNYWs1qrjsRNVaozqTgWow': 0.18526386296296296, 'ChIJT2jGBjI-rjsRkJZrXpR5vwA': -0.0013578333333333359, 'ChIJZxInvvIVrjsR9GSpvbzeO-w': 0.21993821000000002, 'ChIJ27HGgKMWrjsRIv1bXXQGMME': 0.3762422803030303, 'ChIJVVVV0ZA9rjsRz4pqp672Fwo': 0.32764843478260874, 'ChIJ62XomDMSrjsRAUc663qoLls': 0.55437162, 'ChIJu0U903wVrjsR3UOo43ZsPGs': 0.35710962589285716, 'ChIJn5TAr7wVrjsRW9j5c9n4iPk': 0.3307637, 'ChIJu8Iyqf0UrjsRyYCy8dMbBM0': 0.457957725, 'ChIJbQCAp0MUrjsRjTmLPORnr2Q': 0.1768435274509804, 'ChIJ4Z-d36UTrjsR9IMvMQs2mps': -0.12430896626984131, 'ChIJZzX0CzIVrjsRj5qDgNmmFdk': 0.4237541904761906, 'ChIJn2icKU4UrjsR04FZVwZ9E0I': -0.001259174747474802, 'ChIJUUSLnpI9rjsRGQuAAkCJSdY': -0.07017900980392155, 'ChIJywqu0VEUrjsRzlpMZG7hsnE': 0.4814101944444444, 'ChIJB46vR9UVrjsRCU3RNOIohBI': 0.7966857619047619, 'ChIJZTWNowoTrjsRQTy7JDaOg2Y': 0.3248562222222222, 'ChIJOTfmuhUVrjsR0YsPD7vWE7A': -0.1875659545454546}

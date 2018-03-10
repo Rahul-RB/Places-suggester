@@ -1,0 +1,712 @@
+['Nice historic temple.', 'There is cave inside the temple, you will find old carvings and writings on the stones,old idols.', 'The houses located around the temple are also of old types.', 'This fully gives you the feel of being in century old generation.']
+Nice historic temple.
+There is cave inside the temple, you will find old carvings and writings on the stones,old idols.
+The houses located around the temple are also of old types.
+This fully gives you the feel of being in century old generation.
+['Temple built in a cave.', 'Only on a Sankranthi day sun rays touch diety, proof for excellent architectural awareness.', 'On days other than Monday and festival days, one can explore with ease around.', 'Walk up to the park right next is rewarding.', 'Also nearby Ramanjaneya temple is worth visiting too.']
+Temple built in a cave.
+Only on a Sankranthi day sun rays touch diety, proof for excellent architectural awareness.
+On days other than Monday and festival days, one can explore with ease around.
+Walk up to the park right next is rewarding.
+Also nearby Ramanjaneya temple is worth visiting too.
+['Ancient temple of old BENGALURU.', 'Built by founder of bangalore Kempegowda.', 'Cave temple is a heritage monument.', 'Each year on sankranti day, sun rays shine on shiv linga.']
+Ancient temple of old BENGALURU.
+Built by founder of bangalore Kempegowda.
+Cave temple is a heritage monument.
+Each year on sankranti day, sun rays shine on shiv linga.
+['One of the ancient cave temple dedicated to lord Shiva.', 'A placard near the entrance of the premises gives a interesting information about the architectural planning of the temple that is backed by scientific knowledge.', 'It is also believed that there is an underground tunnel from underneath (which is placarded) this temple that connects it to Kashi.', "Also, it's widely known for a unique phenomenon which occurs every year during Makara Sankranti the sun light passes between the horns of the Nandi and enters the inner sanctum directly illuminating the Shiva Lingam.", 'Which is backed by the science and has to do with position of the sun during specific period.']
+One of the ancient cave temple dedicated to lord Shiva.
+A placard near the entrance of the premises gives a interesting information about the architectural planning of the temple that is backed by scientific knowledge.
+It is also believed that there is an underground tunnel from underneath (which is placarded) this temple that connects it to Kashi.
+Also, it's widely known for a unique phenomenon which occurs every year during Makara Sankranti the sun light passes between the horns of the Nandi and enters the inner sanctum directly illuminating the Shiva Lingam.
+Which is backed by the science and has to do with position of the sun during specific period.
+['Unique temple.', 'The statue is inside the rock cave.', 'Special darshan on Makara Sankranti day i.', 'e.']
+Unique temple.
+The statue is inside the rock cave.
+Special darshan on Makara Sankranti day i.
+e.
+['This is a very peaceful and calm place with a serene backdrop.', 'There are two ponds in this park .', 'Some patches of bamboo plantation gives it a very beautiful touch.', 'There are some peaceful corners where one can sit and meditate.', 'The place gives a lively experience specially in the morning when you can come across very aged people enjoying the child within them .', 'Opens at 5 in the morning at closes at 10 where as in the evening it opens at 4 and closes at 7 pm .', "But  It's always recommend not to go there after 6 in the evening as the location isn't safe enough."]
+This is a very peaceful and calm place with a serene backdrop.
+There are two ponds in this park .
+Some patches of bamboo plantation gives it a very beautiful touch.
+There are some peaceful corners where one can sit and meditate.
+The place gives a lively experience specially in the morning when you can come across very aged people enjoying the child within them .
+Opens at 5 in the morning at closes at 10 where as in the evening it opens at 4 and closes at 7 pm .
+But  It's always recommend not to go there after 6 in the evening as the location isn't safe enough.
+['Neat and clean park.', 'It has Two wheeler parking space.', 'Very good for kids and persons of all ages.', 'There are lawns, Walking lanes, rest area, etc.', 'Easily accessible from Bannerghatta road, very near to IBM and Accenture offices.']
+Neat and clean park.
+It has Two wheeler parking space.
+Very good for kids and persons of all ages.
+There are lawns, Walking lanes, rest area, etc.
+Easily accessible from Bannerghatta road, very near to IBM and Accenture offices.
+['An awesome place for morning & evening walk.', 'Post 06.', '00 PM all sorts of social evils happens here.', 'Better make sure that you are not there after sunset and also when there is no crowd.']
+An awesome place for morning & evening walk.
+Post 06.
+00 PM all sorts of social evils happens here.
+Better make sure that you are not there after sunset and also when there is no crowd.
+['A nice little corner to take a break in the middle of the Center One while paying your light bills at the Bangalore One next door.', "There's a good variety of trees including a lovely bamboo groove."]
+A nice little corner to take a break in the middle of the Center One while paying your light bills at the Bangalore One next door.
+There's a good variety of trees including a lovely bamboo groove.
+["Excellent place for everyone, there is a children's play area & senior citizens exercise place.", 'The track is well maintained.', 'Their is a parking lot too.', '.']
+Excellent place for everyone, there is a children's play area & senior citizens exercise place.
+The track is well maintained.
+Their is a parking lot too.
+['With the green spaces disappearing in the once garden city of Bangalore, Cubbon Park is one of the only parks that still has a huge area of greens and that too at the heart of Bangalore.', 'The Sunday morning walk here is really enjoyable.', 'The vehicular traffic is blocked early morning for people to enjoy a walk on the roads inside Cubbon Park.', 'There are two metro station near Cubbon Park and visitors can choose from which one is closer to them.', 'Also on Sunday Mornings there are series of marts set up for juices and vegetable shopping.', 'Also there is always some or the other activity going on in Cubbon Park on Sundays - dances at.']
+With the green spaces disappearing in the once garden city of Bangalore, Cubbon Park is one of the only parks that still has a huge area of greens and that too at the heart of Bangalore.
+The Sunday morning walk here is really enjoyable.
+The vehicular traffic is blocked early morning for people to enjoy a walk on the roads inside Cubbon Park.
+There are two metro station near Cubbon Park and visitors can choose from which one is closer to them.
+Also on Sunday Mornings there are series of marts set up for juices and vegetable shopping.
+Also there is always some or the other activity going on in Cubbon Park on Sundays - dances at.
+['Good place to rest on the way.', 'Better place to visit with friends.', 'If you are new to Bangalore, I recommend you to visit this place.', 'Garden maintenance is awesome.', 'Sprinklers will surely catch your eyes.', 'Good place for photoshoots.', 'I find people sleeping in the garden.', 'You may find some fortune tellers here.', "Not so irritating place cause it's definitely not a couples spot.", 'Despite of the name, there are pretty old trees here.', "Each tree has a number plate on it, I'm not sure what the number mean.", 'Overall a nice place for nature lovers to stop by.', 'Good for a morning walk/jog.']
+Good place to rest on the way.
+Better place to visit with friends.
+If you are new to Bangalore, I recommend you to visit this place.
+Garden maintenance is awesome.
+Sprinklers will surely catch your eyes.
+Good place for photoshoots.
+I find people sleeping in the garden.
+You may find some fortune tellers here.
+Not so irritating place cause it's definitely not a couples spot.
+Despite of the name, there are pretty old trees here.
+Each tree has a number plate on it, I'm not sure what the number mean.
+Overall a nice place for nature lovers to stop by.
+Good for a morning walk/jog.
+['A good place for kids to have fun and play to their little hearts content.', 'Lots of things to play with, like swings, slides, see saw and climbing.', 'Surrounded by lots of greenery and tall trees including bamboo, this provides an ideal environment for the little ones to enjoy themselves thoroughly.', 'Joy rides such as train and break dance add to the fun.', 'The low cost of the rides and the food stuff sold Inside make it an ideal place to take your kids on a Sunday or a holiday.', 'Keep aside atleast half a day to spend here.']
+A good place for kids to have fun and play to their little hearts content.
+Lots of things to play with, like swings, slides, see saw and climbing.
+Surrounded by lots of greenery and tall trees including bamboo, this provides an ideal environment for the little ones to enjoy themselves thoroughly.
+Joy rides such as train and break dance add to the fun.
+The low cost of the rides and the food stuff sold Inside make it an ideal place to take your kids on a Sunday or a holiday.
+Keep aside atleast half a day to spend here.
+['Pros: Nice green ambience.', '.', 'Good maintenance.', 'Kids love the place.', 'Take a mat , food, books and toys for kids, your day will be relaxed.', 'Cons: not enough parking.', 'Costly parking.', 'Charged 75 for 3 hours.', 'Less number of toilets.', 'Confusing sign boards.']
+Pros: Nice green ambience.
+Good maintenance.
+Kids love the place.
+Take a mat , food, books and toys for kids, your day will be relaxed.
+Cons: not enough parking.
+Costly parking.
+Charged 75 for 3 hours.
+Less number of toilets.
+Confusing sign boards.
+["We'll, it's still a very beautiful park, just that I visited Brindavan before so that sole the show!", "This spot is well connected to the metro so getting here isn't difficult.", 'Furthermore, there are plenty of eateries around the place so you can make it a half day event.', "We also visited the museums with it and since we like culture we skipped the toy train ride, but for those of you who haven't been on one it might be worth it."]
+We'll, it's still a very beautiful park, just that I visited Brindavan before so that sole the show!
+This spot is well connected to the metro so getting here isn't difficult.
+Furthermore, there are plenty of eateries around the place so you can make it a half day event.
+We also visited the museums with it and since we like culture we skipped the toy train ride, but for those of you who haven't been on one it might be worth it.
+['Ensure you have ID with you.', 'Very impressive building particularly the exterior and the grounds.', 'The audio tour commentary is very informative and free to use.', 'The interior is full of interesting artifacts and fascinating stories.']
+Ensure you have ID with you.
+Very impressive building particularly the exterior and the grounds.
+The audio tour commentary is very informative and free to use.
+The interior is full of interesting artifacts and fascinating stories.
+["It's a great place to visit if you like to know about Udaiyars.", 'The place is well maintained.', 'Audio guides are available in various local and foreign languages.', 'The entry and camera fees are very high for Indians, even more for foreign nationals.', 'This place has a nice garden and ample parking space.', 'Digital Camera and Cellphone photography are prohibited unless you pay the fees for them, just beware of the personnel there if you have not paid for these.']
+It's a great place to visit if you like to know about Udaiyars.
+The place is well maintained.
+Audio guides are available in various local and foreign languages.
+The entry and camera fees are very high for Indians, even more for foreign nationals.
+This place has a nice garden and ample parking space.
+Digital Camera and Cellphone photography are prohibited unless you pay the fees for them, just beware of the personnel there if you have not paid for these.
+["Firstly, it's not a palace.", "It's like four flats joined with some common lobbies.", 'Pathetically Maintained profit making venture.', '.', '.', 'Nothing in the palace is original, furniture drapes or paintings.', 'The recorded tour gives details and opinions rather than anything worthwhile appreciating.', "Doesn't deserve 250 Rs entry fee.", 'Nothing worthwhile to take picture of.', 'Entry fee double for foreigners.', 'Shameless.', 'No receipts.', 'Only cash payments and receipt for camera mobiles.', "I'll trained staff.", 'Undoubtedly the worst I have seen in India.', 'Indeed some of the unmanaged heritage sites are better maintained and preserved.', "Don't waste your time and money."]
+Firstly, it's not a palace.
+It's like four flats joined with some common lobbies.
+Pathetically Maintained profit making venture.
+Nothing in the palace is original, furniture drapes or paintings.
+The recorded tour gives details and opinions rather than anything worthwhile appreciating.
+Doesn't deserve 250 Rs entry fee.
+Nothing worthwhile to take picture of.
+Entry fee double for foreigners.
+Shameless.
+No receipts.
+Only cash payments and receipt for camera mobiles.
+I'll trained staff.
+Undoubtedly the worst I have seen in India.
+Indeed some of the unmanaged heritage sites are better maintained and preserved.
+Don't waste your time and money.
+["It's a Lovely place.", 'There is something about it that makes people want to stay and enjoy the moment for a little more time.', 'They provides audio guide, which makes it a bit more interesting as it tells you a lot about the artefacts on display.', "I, however, personally didn't take the audio device.", 'I simple went on and enjoyed the Palace as it is.']
+It's a Lovely place.
+There is something about it that makes people want to stay and enjoy the moment for a little more time.
+They provides audio guide, which makes it a bit more interesting as it tells you a lot about the artefacts on display.
+I, however, personally didn't take the audio device.
+I simple went on and enjoyed the Palace as it is.
+['The palace is huge when you see it from outside.', 'Once you enter, you can take audio guides to be well informed.', 'The palace is nicely maintained.', 'Many of the rooms are closed for public.', "There's paintings, few rooms with furniture for viewing, there's also photos of people back then living there.", "Overall, it's an average venue.", 'Only if they had kept the huge palace rooms open for viewers to enjoy the tour more.', 'The entry fee is a little high especially for families visiting.', 'Outside the palace, there are a few cars, horse carriage for display but poorly maintained.']
+The palace is huge when you see it from outside.
+Once you enter, you can take audio guides to be well informed.
+The palace is nicely maintained.
+Many of the rooms are closed for public.
+There's paintings, few rooms with furniture for viewing, there's also photos of people back then living there.
+Overall, it's an average venue.
+Only if they had kept the huge palace rooms open for viewers to enjoy the tour more.
+The entry fee is a little high especially for families visiting.
+Outside the palace, there are a few cars, horse carriage for display but poorly maintained.
+['I liked this place.', 'My son also enjoyed.', 'Kids will see learn a lot here.', 'They need this experience.', 'Parking is little problem but you can manage.', 'Ticket price is nominal 30 per head.', 'There is place you can bring home food and eat here.', '.', '.', 'picture perfect place.', 'Specially kids above 8 yes can lot so much here.']
+I liked this place.
+My son also enjoyed.
+Kids will see learn a lot here.
+They need this experience.
+Parking is little problem but you can manage.
+Ticket price is nominal 30 per head.
+There is place you can bring home food and eat here.
+picture perfect place.
+Specially kids above 8 yes can lot so much here.
+["It's a fantastic museum exhibiting real airplanes of various types.", 'These planes are in large numbers and hence you must keep at least 2 hours for the whole visit.', 'Although the timings are till 5pm, only 2 sections actually close at 5pm.', 'Most of the museum still remains open long after that.', 'Kids would love it too.', "It's a good picnic spot for families."]
+It's a fantastic museum exhibiting real airplanes of various types.
+These planes are in large numbers and hence you must keep at least 2 hours for the whole visit.
+Although the timings are till 5pm, only 2 sections actually close at 5pm.
+Most of the museum still remains open long after that.
+Kids would love it too.
+It's a good picnic spot for families.
+['The best of Bengaluru!', 'The place is amazing!', 'HAL has made fame across India now.', 'Do visit the place for a great exposure on everything related to aerospace , HAL and what not.', 'The place is well maintained and can be covered within a few hours.', 'If you liked this review please give a thumbs-up below!']
+The best of Bengaluru!
+The place is amazing!
+HAL has made fame across India now.
+Do visit the place for a great exposure on everything related to aerospace , HAL and what not.
+The place is well maintained and can be covered within a few hours.
+If you liked this review please give a thumbs-up below!
+['Entry priced at Rs50/-, the place is quite worth it with the galleries and models on display.', 'The games and photography are chargeable.', 'The washroom is clean.', 'Drinking water is available.', 'Packaged and processed food available and there is open space to sit and eat as well.', 'There is a souvenir shop as well for people who would fancy shopping artifacts.', 'It takes around 1-2 hours to see the entire place.', 'Children enjoy the displays.']
+Entry priced at Rs50/-, the place is quite worth it with the galleries and models on display.
+The games and photography are chargeable.
+The washroom is clean.
+Drinking water is available.
+Packaged and processed food available and there is open space to sit and eat as well.
+There is a souvenir shop as well for people who would fancy shopping artifacts.
+It takes around 1-2 hours to see the entire place.
+Children enjoy the displays.
+['Very nice museum.', 'Nicely maintained.', 'One feedback on the flight simulator though.', 'It is not worth it.', "Don't get excited and have high hopes on the simulator.", 'It is just a game type simulator.', 'Kind of felt out of place with the impressive steel birds at display.']
+Very nice museum.
+Nicely maintained.
+One feedback on the flight simulator though.
+It is not worth it.
+Don't get excited and have high hopes on the simulator.
+It is just a game type simulator.
+Kind of felt out of place with the impressive steel birds at display.
+["It's a pleasure to watch nature at it's best.", 'Rare combination of nature and man made architecture.', 'The glass house is a nice place.', 'Best place for a week end getaway with the family and friends and especially kids.', 'Lots of floral arrangements give you a soothing feeling.', 'Lots of places to see.', 'Snacks and drinks and coconut shop available.']
+It's a pleasure to watch nature at it's best.
+Rare combination of nature and man made architecture.
+The glass house is a nice place.
+Best place for a week end getaway with the family and friends and especially kids.
+Lots of floral arrangements give you a soothing feeling.
+Lots of places to see.
+Snacks and drinks and coconut shop available.
+["It's a beautiful garden in the middle of a busy suburb.", "It's well tended and clean.", 'It has interesting structures of historical and geological importance as well.', 'The granite monolith is an interesting structure.', 'Access to the place is easy .', 'An ideal place for a relaxing stroll .', 'A treasure trove for botanists and biology students.']
+It's a beautiful garden in the middle of a busy suburb.
+It's well tended and clean.
+It has interesting structures of historical and geological importance as well.
+The granite monolith is an interesting structure.
+Access to the place is easy .
+An ideal place for a relaxing stroll .
+A treasure trove for botanists and biology students.
+['I visited Lalbagh during the week of Indian Republic day (around January 26).', 'During that week, flower show and exhibition was held at Lalbagh, it was very beautiful treat to my visual senses.', 'Apart from that place is very peaceful amidst the city giving you close to nature experience.', 'The place will give you relaxing and calming experience while having walk under shadow of trees around the lake.']
+I visited Lalbagh during the week of Indian Republic day (around January 26).
+During that week, flower show and exhibition was held at Lalbagh, it was very beautiful treat to my visual senses.
+Apart from that place is very peaceful amidst the city giving you close to nature experience.
+The place will give you relaxing and calming experience while having walk under shadow of trees around the lake.
+['This place is quite and calm.', 'Although not much maintained still it serves the purpose of A refreshing peaceful walk in the middle of the city.', "There's a small lake,  a botanical garden, white and green house.", "The lake is sometimes open for a pedal boating but It's pretty much once in a blue moon.", 'If you love peace and serenity this is a place to go in Bangalore.']
+This place is quite and calm.
+Although not much maintained still it serves the purpose of A refreshing peaceful walk in the middle of the city.
+There's a small lake,  a botanical garden, white and green house.
+The lake is sometimes open for a pedal boating but It's pretty much once in a blue moon.
+If you love peace and serenity this is a place to go in Bangalore.
+['Lalbagh is one of the well maintained botanical garden in Bangalore and has a lot of History behind it.', 'It is believed to have been  commissioned in 18th century.', 'One can find a lot of rare trees and plants.', 'A place where you find lot of  birds and at times, rare species of them too.', 'Regular flower shows are conducted at Lalbagh , where lot of crowd gather to look at the same.', 'The park also has Glass house , a lake which attracts several birds and a wooden stage near the glass house where few events are conducted.', 'Early mornings and evenings are the best time to visit.']
+Lalbagh is one of the well maintained botanical garden in Bangalore and has a lot of History behind it.
+It is believed to have been  commissioned in 18th century.
+One can find a lot of rare trees and plants.
+A place where you find lot of  birds and at times, rare species of them too.
+Regular flower shows are conducted at Lalbagh , where lot of crowd gather to look at the same.
+The park also has Glass house , a lake which attracts several birds and a wooden stage near the glass house where few events are conducted.
+Early mornings and evenings are the best time to visit.
+['A must visit place for science lovers and knowledge seekers especially students.', 'Everyone from kids to old ones enjoy here with learning by doing projects.', 'Interactive, working science projects and machines.', 'Get a chance to learn different aspects of science in a very interactive and funny way.', 'You get to see different engines and machines that form the base for modern day technology, an interactive flight simulation model of Wright Brothers, fundamental principles of electricity, fluid mechanics, sound and optics science, pulley system, ball contraption and much more interesting stuff.', 'The museum can be made more informative though, and there is always room for improvements - important part is maintenance, keeping models in working conditions as at present many are not.', '.', 'Very interesting.', 'So good for science students to understand the concepts of physics.']
+A must visit place for science lovers and knowledge seekers especially students.
+Everyone from kids to old ones enjoy here with learning by doing projects.
+Interactive, working science projects and machines.
+Get a chance to learn different aspects of science in a very interactive and funny way.
+You get to see different engines and machines that form the base for modern day technology, an interactive flight simulation model of Wright Brothers, fundamental principles of electricity, fluid mechanics, sound and optics science, pulley system, ball contraption and much more interesting stuff.
+The museum can be made more informative though, and there is always room for improvements - important part is maintenance, keeping models in working conditions as at present many are not.
+Very interesting.
+So good for science students to understand the concepts of physics.
+['A must visit place in Bangalore.', '.', '.', 'This is  something so different and good.', '.', '.', 'An international level museum .', '.', '.', '.', 'Everyone from kids to old ones enjoy here with learning by doing projects.', '.', '.', 'Interactive , working science projects and machines.', '.', '.', 'Very interesting.', '.', '.', 'So good for science students to understand the concepts of physics.', '.', '.', "It's a jewel in cap of Bangalore and yet so not very known place.", '.', '.', "It deserves it's due popularity.", '.', "do visit this place once and don't miss on shows that happen there during fixed timings mentioned on sideboards.", '.', '.', '.']
+A must visit place in Bangalore.
+This is  something so different and good.
+An international level museum .
+Everyone from kids to old ones enjoy here with learning by doing projects.
+Interactive , working science projects and machines.
+Very interesting.
+So good for science students to understand the concepts of physics.
+It's a jewel in cap of Bangalore and yet so not very known place.
+It deserves it's due popularity.
+do visit this place once and don't miss on shows that happen there during fixed timings mentioned on sideboards.
+['Superb place to hang out with your inner kid who is or was into science or are getting introduced to science.', "I can say it's well maintained even if it has a long history.", "Maintained by the govt, and very nominal entry fee, you'll not regret going there even after you'd got school long time back.", "Brings back all the school memories, the teachers who struggled to teach us these concepts that were so elementary but we still didn't understand the head and tail of it.", "You'd need a full day to get to know the whole museum.", 'Go early, take your time, enjoy.', "Best science museum I've visited.", 'I strongly suggest this  to any one who fancies about physics or is studying physics.', 'There is some biology/gene related exhibition as well.', 'I did not have enough time to visit those exhibits .', 'I could have happily spent one full day here.']
+Superb place to hang out with your inner kid who is or was into science or are getting introduced to science.
+I can say it's well maintained even if it has a long history.
+Maintained by the govt, and very nominal entry fee, you'll not regret going there even after you'd got school long time back.
+Brings back all the school memories, the teachers who struggled to teach us these concepts that were so elementary but we still didn't understand the head and tail of it.
+You'd need a full day to get to know the whole museum.
+Go early, take your time, enjoy.
+Best science museum I've visited.
+I strongly suggest this  to any one who fancies about physics or is studying physics.
+There is some biology/gene related exhibition as well.
+I did not have enough time to visit those exhibits .
+I could have happily spent one full day here.
+['This is a very nice museum for science enthusiasts.', 'There are several units catering to Electromagnetism, Mechanics, basic physics, electronics, bio-technology etc.', 'The exhibits are highly informative and interactive.', 'There are buttons placed near to each exhibit to activate it.', "I would say it's a must see visit for any science/technology enthusiast.", 'high-school to engineering students will find it useful.', 'Entry fee is Rs.', '50 per head.', 'Thereafter some 3D shows at certain timings.']
+This is a very nice museum for science enthusiasts.
+There are several units catering to Electromagnetism, Mechanics, basic physics, electronics, bio-technology etc.
+The exhibits are highly informative and interactive.
+There are buttons placed near to each exhibit to activate it.
+I would say it's a must see visit for any science/technology enthusiast.
+high-school to engineering students will find it useful.
+Entry fee is Rs.
+50 per head.
+Thereafter some 3D shows at certain timings.
+['An excellent science museum.', "There's so much to watch.", 'I think this is the best place to take kids if you want them to actively take an interest in science.', "And if you're already fascinated by science, this will be heaven for you.", "Some exhibits were under maintenance, but there's enough and more to observe.", 'This place can get really noisy and crowded because the majority of the visitors tend to be school-going kids.', 'There are entire wings dedicated to the display of products by two major Indian organizations - ISRO and BEL.', 'The entry ticket costs 50 per head for an adult.', "There's a cafeteria at the rooftop but the food isn't great.", 'Gazing down from the rooftop gave me a sense of serenity.', "The view is not astounding, but it's good.", 'If you stop to watch and observe every exhibit closely, you might end up spending an entire day here.']
+An excellent science museum.
+There's so much to watch.
+I think this is the best place to take kids if you want them to actively take an interest in science.
+And if you're already fascinated by science, this will be heaven for you.
+Some exhibits were under maintenance, but there's enough and more to observe.
+This place can get really noisy and crowded because the majority of the visitors tend to be school-going kids.
+There are entire wings dedicated to the display of products by two major Indian organizations - ISRO and BEL.
+The entry ticket costs 50 per head for an adult.
+There's a cafeteria at the rooftop but the food isn't great.
+Gazing down from the rooftop gave me a sense of serenity.
+The view is not astounding, but it's good.
+If you stop to watch and observe every exhibit closely, you might end up spending an entire day here.
+['Ridiculously bad.', 'There was no information about any of the pictures on display.', 'It also seemed like the pictures were displayed in a completely random order with no consideration for time periods, artists or styles.', 'Finally half the museum was closed down.', "Without doubt the worst museum I've ever been to."]
+Ridiculously bad.
+There was no information about any of the pictures on display.
+It also seemed like the pictures were displayed in a completely random order with no consideration for time periods, artists or styles.
+Finally half the museum was closed down.
+Without doubt the worst museum I've ever been to.
+["Probably the worst modern art museum/gallery I've ever been to.", 'None of the works on display had any information about them, why the in the same areas, absolutely no curation at all.', 'And to charge 10 dollars outrageous.', 'My yr 8 art history students could do a better job.', 'This is in one of the richest cities intellectually and financially, unbelievable.']
+Probably the worst modern art museum/gallery I've ever been to.
+None of the works on display had any information about them, why the in the same areas, absolutely no curation at all.
+And to charge 10 dollars outrageous.
+My yr 8 art history students could do a better job.
+This is in one of the richest cities intellectually and financially, unbelievable.
+['Well maintained and peaceful.', "Less crowded as many don't seem to know such a place exists.", "Gallery has art work from many of India's greatest artists.", 'Staff and security are very helpful.', 'There is small gift shop which sells sovinours and a cafe too.']
+Well maintained and peaceful.
+Less crowded as many don't seem to know such a place exists.
+Gallery has art work from many of India's greatest artists.
+Staff and security are very helpful.
+There is small gift shop which sells sovinours and a cafe too.
+['Very precfull place.', 'You can spend you time by reading books or doing your official work.', 'They have canteen also in reasonable price.', 'You can enjoy art works and exhibition also.']
+Very precfull place.
+You can spend you time by reading books or doing your official work.
+They have canteen also in reasonable price.
+You can enjoy art works and exhibition also.
+["It's the place where art exhibition happens.", "Entry is 20/- for Indians and for foreigners it's more than 200 /- rupees.", 'Calm and nice place.']
+It's the place where art exhibition happens.
+Entry is 20/- for Indians and for foreigners it's more than 200 /- rupees.
+Calm and nice place.
+['A good time to spend and very nice to get relaxed with a lot of peaceful views at this place.', 'Very good to bring kids, adults, old people and all are invited here without any differences.', 'Lord Sri Krishna is always with you at every stage, placing the faith and trust will help you achieve your goals and objectives with confidence and expertise.', 'People will be able to get meditated peacefully and the food available here is very hygiene and is very good for health too, but the price is little bit high.', 'But apart from food everything here is very good to watch.', 'Finally " Hare Krishna Hare Krishna, Krishna Krishna Hare Hare.', 'Hare Rama Hare Rama, Rama Rama Hare Hare".', '.', '.']
+A good time to spend and very nice to get relaxed with a lot of peaceful views at this place.
+Very good to bring kids, adults, old people and all are invited here without any differences.
+Lord Sri Krishna is always with you at every stage, placing the faith and trust will help you achieve your goals and objectives with confidence and expertise.
+People will be able to get meditated peacefully and the food available here is very hygiene and is very good for health too, but the price is little bit high.
+But apart from food everything here is very good to watch.
+Finally " Hare Krishna Hare Krishna, Krishna Krishna Hare Hare.
+Hare Rama Hare Rama, Rama Rama Hare Hare".
+['Nice place.', 'Calm place only we can hear hare Krishna.', 'Good place to visit once in 10 days.', 'Place very well maintained.', 'We should also responsibility to maintain the same in and outside the temple.', 'Early morning visit and evening visits are very good.']
+Nice place.
+Calm place only we can hear hare Krishna.
+Good place to visit once in 10 days.
+Place very well maintained.
+We should also responsibility to maintain the same in and outside the temple.
+Early morning visit and evening visits are very good.
+['My favorite Holly place in Bangalore, whenever I get time will go here.', 'You get positive vibes while the "Hare Rama" Mantra.', 'Evening visit is best time for ISKCON .', 'And also house decorations things also available.', 'Krishna books, toys, key chain, Lord Krishna Dresses for kids and animation preview show also shown for kids.', 'They provide more snacks items and prasadam with reasonable price.', 'Overall environment looking clean and nature.']
+My favorite Holly place in Bangalore, whenever I get time will go here.
+You get positive vibes while the "Hare Rama" Mantra.
+Evening visit is best time for ISKCON .
+And also house decorations things also available.
+Krishna books, toys, key chain, Lord Krishna Dresses for kids and animation preview show also shown for kids.
+They provide more snacks items and prasadam with reasonable price.
+Overall environment looking clean and nature.
+['Nice place to visit.', 'specially with your family.', 'people should aware with the entry timings.', 'I had to wait to 2 hours outside the entry gate just because I reached there at 2 PM.', 'But overall it was a nice experience to visit this place.', 'one should try the snack counter inside the temple premises.', 'rates are cheaper than market and quality is also very good.', 'only thing I was unhappy about is that they did not allow me to take pictures inside the temple, specially where aarti was getting done.', 'I desperately wanted to capture that moment in my cam.']
+Nice place to visit.
+specially with your family.
+people should aware with the entry timings.
+I had to wait to 2 hours outside the entry gate just because I reached there at 2 PM.
+But overall it was a nice experience to visit this place.
+one should try the snack counter inside the temple premises.
+rates are cheaper than market and quality is also very good.
+only thing I was unhappy about is that they did not allow me to take pictures inside the temple, specially where aarti was getting done.
+I desperately wanted to capture that moment in my cam.
+['The experience of visiting is uncountable blessings of lord Sri Krishna.', 'Very big and more comfortable to all who visits.', 'Pilgrims are receiving happy to family view.', 'Who do not know about Krishna they surprise after visiting this temple.', 'Always wish to visit this temple to all.']
+The experience of visiting is uncountable blessings of lord Sri Krishna.
+Very big and more comfortable to all who visits.
+Pilgrims are receiving happy to family view.
+Who do not know about Krishna they surprise after visiting this temple.
+Always wish to visit this temple to all.
+['Actually a full fun place to be with kids.', '.', 'has everything you might think of- rides (good ones), water park, motor boats, pedal boats, eateries, toilets (though not clean), lakeside,.', '.', 'all in the midst of a busy city, accessible and beautiful.', '.', "even if you don't try the rides, simply sit by the lake and look at the sky, it feels good.", 'Of course, nice place when not compared with what features other places have got.', 'Nice in itself, we enjoyed the time spent here with our kids.']
+Actually a full fun place to be with kids.
+has everything you might think of- rides (good ones), water park, motor boats, pedal boats, eateries, toilets (though not clean), lakeside,.
+all in the midst of a busy city, accessible and beautiful.
+even if you don't try the rides, simply sit by the lake and look at the sky, it feels good.
+Of course, nice place when not compared with what features other places have got.
+Nice in itself, we enjoyed the time spent here with our kids.
+['Not at all a good place.', 'Only the entry area feels good and neat.', '.', '.', 'All other places are too dirty.', '.', 'even kids section to play is not maintained clean.', '.', '.', "Some of the kids rides are not even working, the working one's will feel like it might break down in middle of ride.", '.', '😂 Only an evening view might feel good.', '.', 'for that view need to pay a heavy entry fee.', '.', 'which is not at all worth.', '.']
+Not at all a good place.
+Only the entry area feels good and neat.
+All other places are too dirty.
+even kids section to play is not maintained clean.
+Some of the kids rides are not even working, the working one's will feel like it might break down in middle of ride.
+😂 Only an evening view might feel good.
+for that view need to pay a heavy entry fee.
+which is not at all worth.
+['Pretty good place with kids and family.', 'A beautiful view specially evening time.', 'A number of stalls(eatables) , games for kids and many more things.', 'The major attraction is the boating and a small water park/game.', 'Attention: There is an entry fee.']
+Pretty good place with kids and family.
+A beautiful view specially evening time.
+A number of stalls(eatables) , games for kids and many more things.
+The major attraction is the boating and a small water park/game.
+Attention: There is an entry fee.
+['Good place for a family outings in Bangalore.', 'This place offers boating with your family.', 'You can either opt for paddle boats or you can take round trip of the lake in the motor boat.', 'There are also trams for small children.', 'Some games are also available for adults like Trams, bull ride, one giant wheel etc.', "You will also find some eatery joints here where you can savor some of the Indian chats, but don't expect great taste."]
+Good place for a family outings in Bangalore.
+This place offers boating with your family.
+You can either opt for paddle boats or you can take round trip of the lake in the motor boat.
+There are also trams for small children.
+Some games are also available for adults like Trams, bull ride, one giant wheel etc.
+You will also find some eatery joints here where you can savor some of the Indian chats, but don't expect great taste.
+['Good place.', 'Entry at present is Rs 80 for adults and children seems to be at higher side.', 'Water game is also available but too hefty not at all reasonable much more improvement / attraction required here.', 'Good restaurant with reasonable prices is one of the top priority requirements here.', 'Overall Good time pass for all ages.']
+Good place.
+Entry at present is Rs 80 for adults and children seems to be at higher side.
+Water game is also available but too hefty not at all reasonable much more improvement / attraction required here.
+Good restaurant with reasonable prices is one of the top priority requirements here.
+Overall Good time pass for all ages.
+['Good place to enjoy an hour or so and admire the nature.', "It's difficult to figure out the original root of this big banyan tree.", 'This tree must have seen a lot in its 400 years of life.', 'Tourism department can do so much more to make this place a real tourist attraction.', 'A little bit more focus on maintenance and cleanliness can do the trick.', 'There is ample parking available, so that should not be an issue.', 'Lot of monkeys around, so be careful with your food items.', 'Overall, a great place to click some nice portraits of your family, and enjoy the wonders of nature.']
+Good place to enjoy an hour or so and admire the nature.
+It's difficult to figure out the original root of this big banyan tree.
+This tree must have seen a lot in its 400 years of life.
+Tourism department can do so much more to make this place a real tourist attraction.
+A little bit more focus on maintenance and cleanliness can do the trick.
+There is ample parking available, so that should not be an issue.
+Lot of monkeys around, so be careful with your food items.
+Overall, a great place to click some nice portraits of your family, and enjoy the wonders of nature.
+['"This place is beautiful and is suitable for photography.', 'The place looks like a park and has a small temple.', 'This place has a single banyan tree that has spread its branches to few acres.', 'Good efforts are being made by forest department in order to maintain this area.', 'The area houses lot of monkeys.', 'This is one of the best place where you can spend time with your friends and family.', 'Nothing more".']
+"This place is beautiful and is suitable for photography.
+The place looks like a park and has a small temple.
+This place has a single banyan tree that has spread its branches to few acres.
+Good efforts are being made by forest department in order to maintain this area.
+The area houses lot of monkeys.
+This is one of the best place where you can spend time with your friends and family.
+Nothing more".
+['We visited the place to see the 400 year old banyan tree.', 'The place is full of monkeys, so be ware of your items.', "Don't tease them or you will have a hard time.", 'A peaceful place to look at the big and wide tree.', 'Though the main tree is now cut as it had got some infectious disease.', 'The branches are all around the place.', 'A shade is so cooling.', 'Loved to visit and watch around.', 'My little one who never climbed anything, finally climbed few branches and dangled from few.', 'It was fun.', 'Washrooms as expected were dirty.', "Can't help it.", 'Just go there to see the magnificent tree and the monkeys and the sorroundings.']
+We visited the place to see the 400 year old banyan tree.
+The place is full of monkeys, so be ware of your items.
+Don't tease them or you will have a hard time.
+A peaceful place to look at the big and wide tree.
+Though the main tree is now cut as it had got some infectious disease.
+The branches are all around the place.
+A shade is so cooling.
+Loved to visit and watch around.
+My little one who never climbed anything, finally climbed few branches and dangled from few.
+It was fun.
+Washrooms as expected were dirty.
+Can't help it.
+Just go there to see the magnificent tree and the monkeys and the sorroundings.
+['A good place to spend with your family away from the noises and disturbances of the city.', 'A peaceful place and have monkeys roaming around for entertainment.', 'Feel the fresh air and just meditate in the calmness of the greenery around to rejuvenate yourself.', "it's a hubspot of monkeys and though it's fun to watch them, you have to be careful with your belongings.", 'A good place for outdoor photography around greenery.', 'The main trunk of the tree is not to be found.', 'Apparently its been cut off due to a disease which was a disappointment.', 'There is a lot of parking space and fresh sugarcane and tender coconut juice is available around which is a plus point.', 'Good weekend getaway for a few hours close to the city but away from the noise.']
+A good place to spend with your family away from the noises and disturbances of the city.
+A peaceful place and have monkeys roaming around for entertainment.
+Feel the fresh air and just meditate in the calmness of the greenery around to rejuvenate yourself.
+it's a hubspot of monkeys and though it's fun to watch them, you have to be careful with your belongings.
+A good place for outdoor photography around greenery.
+The main trunk of the tree is not to be found.
+Apparently its been cut off due to a disease which was a disappointment.
+There is a lot of parking space and fresh sugarcane and tender coconut juice is available around which is a plus point.
+Good weekend getaway for a few hours close to the city but away from the noise.
+['It a natural wonder located on the outskirts of Bangalore.', 'Not that easy to reach.', 'Thus place has a Banyan tree which is over 400 hundred years old.', "It's root has spread over an area of 300 acres and it looks like a natural maze.", 'One is left awestruck looking at the tall roots.', 'It is spooky and exciting at the same time.', 'Highly recommend.']
+It a natural wonder located on the outskirts of Bangalore.
+Not that easy to reach.
+Thus place has a Banyan tree which is over 400 hundred years old.
+It's root has spread over an area of 300 acres and it looks like a natural maze.
+One is left awestruck looking at the tall roots.
+It is spooky and exciting at the same time.
+Highly recommend.
+['A little area of attraction.', 'The fort has long walls and a central ground.', 'Others rooms are almost destroyed.', 'Now there are different historical symbols.', 'Large entrance door, different aperture there on wall.', 'At the entrance there is a idol of a god.', 'A security guard is there.', 'This is entirely free for visitors.']
+A little area of attraction.
+The fort has long walls and a central ground.
+Others rooms are almost destroyed.
+Now there are different historical symbols.
+Large entrance door, different aperture there on wall.
+At the entrance there is a idol of a god.
+A security guard is there.
+This is entirely free for visitors.
+['Really nice place especially quite in a busy place.', '.', '.', 'Though the whole place is not open for the public and I would have really liked if it were a big museum and we could see each and every nook and corner of the place.', '.', '.', 'Still a good visit.']
+Really nice place especially quite in a busy place.
+Though the whole place is not open for the public and I would have really liked if it were a big museum and we could see each and every nook and corner of the place.
+Still a good visit.
+['You will get some decent pictures, definitely profile picture or do worthy.', "It wasn't too crowded, probably because there isn't much to see!", "Still worth the visit if you're passing by.", 'For those into street food, there are quite a few little stalls outside, if you dare to explore!']
+You will get some decent pictures, definitely profile picture or do worthy.
+It wasn't too crowded, probably because there isn't much to see!
+Still worth the visit if you're passing by.
+For those into street food, there are quite a few little stalls outside, if you dare to explore!
+['Absolute nothing to see.', 'It will take you just five minutes to walk around the place which is accessible.', 'Only a small portion is kept open for visitors.', 'It is built of huge rocks and has a huge door which probably every fort has, so nothing in particular to go visit and see.']
+Absolute nothing to see.
+It will take you just five minutes to walk around the place which is accessible.
+Only a small portion is kept open for visitors.
+It is built of huge rocks and has a huge door which probably every fort has, so nothing in particular to go visit and see.
+['The best part is, fort is located at a walkable distance from KR market metro station and bus stop.', 'The entry to the fort is free.', 'The fort is one of the ancient heritages of Bangalore.', "It was once a vast monumental structure, even Tipu Sultan's summer palace was once a part of Bangalore fort, but now they are separate entities and there is not much to see inside the fort apart from a massive stone wall, a temple, a small garden and a massive door with sharp iron spikes.", 'You can hardly spend 10-15 minutes.']
+The best part is, fort is located at a walkable distance from KR market metro station and bus stop.
+The entry to the fort is free.
+The fort is one of the ancient heritages of Bangalore.
+It was once a vast monumental structure, even Tipu Sultan's summer palace was once a part of Bangalore fort, but now they are separate entities and there is not much to see inside the fort apart from a massive stone wall, a temple, a small garden and a massive door with sharp iron spikes.
+You can hardly spend 10-15 minutes.
+['This is a small fort but in shambles.', 'The fort layout is very good, but access is very poor.', 'Maintenance is missing but given a right mindset of the local politician this place could be a good attraction.']
+This is a small fort but in shambles.
+The fort layout is very good, but access is very poor.
+Maintenance is missing but given a right mindset of the local politician this place could be a good attraction.
+['Will be open in morning 8 am - 10 am (Weekends till 12 am), On Friday, Sat and Sunday in evenings open from 5 pm - 7 pm.', 'Best in evenings to view Sun set from fort cliff.']
+Will be open in morning 8 am - 10 am (Weekends till 12 am), On Friday, Sat and Sunday in evenings open from 5 pm - 7 pm.
+Best in evenings to view Sun set from fort cliff.
+['One can reach the place taking back path of DLF residency "Westend height".', 'A small temple as described in google, surrounded by villagers.', "Cab & auto driver's watched us with an astonishing look expressing whether google making people fool or Kannada's making tourists fool."]
+One can reach the place taking back path of DLF residency "Westend height".
+A small temple as described in google, surrounded by villagers.
+Cab & auto driver's watched us with an astonishing look expressing whether google making people fool or Kannada's making tourists fool.
+['Cholas dynasty halting locations by foot journeys.', 'They needed protected fort places to rest from animals , their has been kashilingeshwara pratistithitha temple.', 'Believed having golden charriot for this  utsava  .']
+Cholas dynasty halting locations by foot journeys.
+They needed protected fort places to rest from animals , their has been kashilingeshwara pratistithitha temple.
+Believed having golden charriot for this  utsava  .
+['Worst place even to raom around.', 'Its just a temple and bad cricket play ground.', 'Very difficult to locate.']
+Worst place even to raom around.
+Its just a temple and bad cricket play ground.
+Very difficult to locate.
+["You can miss this place if you don't watch the road carefully.", 'Best time to visit is early mornings.', 'One can see a decent variety of butterflies.', 'However, the place needs better care.']
+You can miss this place if you don't watch the road carefully.
+Best time to visit is early mornings.
+One can see a decent variety of butterflies.
+However, the place needs better care.
+['Nothing big to offer here.', 'There are few butterflies here and there but nothing big apart from this.', 'City people who never seen butterfly can visit there.', 'But those who hails from village might have seen all those species.', 'Entrance fee is 30₹ and one can spend 30 mins over here.', 'Battery vehicle available and they charge around 150₹.']
+Nothing big to offer here.
+There are few butterflies here and there but nothing big apart from this.
+City people who never seen butterfly can visit there.
+But those who hails from village might have seen all those species.
+Entrance fee is 30₹ and one can spend 30 mins over here.
+Battery vehicle available and they charge around 150₹.
+['Lots of different butterflies are present in the green house.', 'Some these are really friendly and get up close with you.', 'The entire setup is very nice with and artificial fountain and a bridge.', 'They have some very scared koi fishes in the small pond as well.', 'Outside of the green house there is a hallway, where they have displayed lots of facts about butterflies and some preserved butterflies and other insects are also put on display.', 'Once out of the park building you get to enjoy the nature with lots or sitting area and a peaceful environment.']
+Lots of different butterflies are present in the green house.
+Some these are really friendly and get up close with you.
+The entire setup is very nice with and artificial fountain and a bridge.
+They have some very scared koi fishes in the small pond as well.
+Outside of the green house there is a hallway, where they have displayed lots of facts about butterflies and some preserved butterflies and other insects are also put on display.
+Once out of the park building you get to enjoy the nature with lots or sitting area and a peaceful environment.
+['Very nice place.', 'Calm and quiet.', 'Has a decent play area for kids.', 'The dome for butterflies is well maintained and one can observe several species.', 'The garden is pleasant.', 'There is also an educational section with pictures and video shows.', '5 minute walk from the zoo entrance.', 'Tickets are purchased separately.']
+Very nice place.
+Calm and quiet.
+Has a decent play area for kids.
+The dome for butterflies is well maintained and one can observe several species.
+The garden is pleasant.
+There is also an educational section with pictures and video shows.
+5 minute walk from the zoo entrance.
+Tickets are purchased separately.
+['This butterfly enclosure is very much nice and beautiful situated in one corner of the Bannerghatta biological park and zoo.', 'There are lots of varieties of butterfly in the park.', 'It is well maintained and looked after.', 'One should visit the place in between 9 am to 3 pm to have a great look.']
+This butterfly enclosure is very much nice and beautiful situated in one corner of the Bannerghatta biological park and zoo.
+There are lots of varieties of butterfly in the park.
+It is well maintained and looked after.
+One should visit the place in between 9 am to 3 pm to have a great look.
+['A good place to visit and spend time.', 'Will be able to find a lot of animals and birds.', 'Crowded at sometime.', 'I suggest go early to escape the large crowd.', 'A visit in zoo is a good place to learn a lot about animals .', 'Taking a safari through the jungle is a must do in here.', "In safari animals aren't caged or under locks.", 'They roam freely in wild and u will be able to see animals close to your eyes.', 'A good place for budding photographers to test their skills.']
+A good place to visit and spend time.
+Will be able to find a lot of animals and birds.
+Crowded at sometime.
+I suggest go early to escape the large crowd.
+A visit in zoo is a good place to learn a lot about animals .
+Taking a safari through the jungle is a must do in here.
+In safari animals aren't caged or under locks.
+They roam freely in wild and u will be able to see animals close to your eyes.
+A good place for budding photographers to test their skills.
+['Zoo improving little every year.', 'Their focus seems more on 🔋 running cars tours.', 'Giraffe will be added soon.', 'Good to see new leopard pairs.', 'Old cage being renovated.', 'New one added.', 'However what was good Animal cage point in 2016-17 is no more good in 2017-18.', 'I guess their maintenance lacks but they are learning from Mysore zoo but still 10 yrs behind.']
+Zoo improving little every year.
+Their focus seems more on 🔋 running cars tours.
+Giraffe will be added soon.
+Good to see new leopard pairs.
+Old cage being renovated.
+New one added.
+However what was good Animal cage point in 2016-17 is no more good in 2017-18.
+I guess their maintenance lacks but they are learning from Mysore zoo but still 10 yrs behind.
+['This is a zoo cum biological park.', 'We reached early here at 9am with 2 kids.', 'We did our bookings online and allowed to enter without printouts.', 'We booked a non AC bus safari.', 'Management was good.', 'But the bus safari is below average experience.', 'We did not get the feeling of roaming in jungle.', 'Buses can be far better.', 'The driver or co driver demands money (gift) at drop point for better pictures clicked by them !', 'Animals seems sick or weak, specially the white tiger and the one of the Bengal Tiger seemed hurt in his leg.', 'The Butterfly park is nice initiative but needs improvement.', 'They should keep more species.', 'We carried our own food and water.', '3 hours was sufficient as we did not see the whole zoo and joined the safari.']
+This is a zoo cum biological park.
+We reached early here at 9am with 2 kids.
+We did our bookings online and allowed to enter without printouts.
+We booked a non AC bus safari.
+Management was good.
+But the bus safari is below average experience.
+We did not get the feeling of roaming in jungle.
+Buses can be far better.
+The driver or co driver demands money (gift) at drop point for better pictures clicked by them !
+Animals seems sick or weak, specially the white tiger and the one of the Bengal Tiger seemed hurt in his leg.
+The Butterfly park is nice initiative but needs improvement.
+They should keep more species.
+We carried our own food and water.
+3 hours was sufficient as we did not see the whole zoo and joined the safari.
+['The wonderful experience is safari.', 'There is a separate enclosure for each animals and a mini bus will take us inside the each enclosure.', 'We feel like seeing animals in their natural habitat.', 'we will be able to see more animals if we sit in the left side seats of the bus.', 'Apart from safari, we can visit the zoo and a good number of animals, birds, and snakes are there.', 'Its good if we take home made food since we need to spend more time in the zoo and no good choices of food available inside.', 'We can spend a half a day there.', 'A nice educative place for kids.', 'An organized and big parking structure available.']
+The wonderful experience is safari.
+There is a separate enclosure for each animals and a mini bus will take us inside the each enclosure.
+We feel like seeing animals in their natural habitat.
+we will be able to see more animals if we sit in the left side seats of the bus.
+Apart from safari, we can visit the zoo and a good number of animals, birds, and snakes are there.
+Its good if we take home made food since we need to spend more time in the zoo and no good choices of food available inside.
+We can spend a half a day there.
+A nice educative place for kids.
+An organized and big parking structure available.
+['White tiger not treated well.', 'Very sad sight.', 'Animals not provided enough place.', '.', '.', '.', "Please don't contribute in such animal torture.", '.', '.', 'Elephants are chained.', '.', '.', 'Cruelty at its peak.', 'Sad sad, all money goes in animal suffering.', 'Peta should take some action.']
+White tiger not treated well.
+Very sad sight.
+Animals not provided enough place.
+Please don't contribute in such animal torture.
+Elephants are chained.
+Cruelty at its peak.
+Sad sad, all money goes in animal suffering.
+Peta should take some action.
+['We went there as part of an office team building exercise.', 'Staff is friendly and helpful.', 'Puzzles are interesting, none of us got out on time.', 'Only minus point for me was that there rooms had a strong smell of paint that was quite strong.']
+We went there as part of an office team building exercise.
+Staff is friendly and helpful.
+Puzzles are interesting, none of us got out on time.
+Only minus point for me was that there rooms had a strong smell of paint that was quite strong.
+['This place is great time pass if you go in a group of 4 to 5 people.', 'The concept is really good and you can enjoy the process of problem solving using the clues.', 'It is an excellent team building activity.', 'Much better than what most event management companies offer.', 'The pricing is on the higher side.', 'The communication skills of the staff also need improvement.', "For instance the guy who explained us about the mystery house was talking in whatever English he knew but I couldn't understand most part of what he said."]
+This place is great time pass if you go in a group of 4 to 5 people.
+The concept is really good and you can enjoy the process of problem solving using the clues.
+It is an excellent team building activity.
+Much better than what most event management companies offer.
+The pricing is on the higher side.
+The communication skills of the staff also need improvement.
+For instance the guy who explained us about the mystery house was talking in whatever English he knew but I couldn't understand most part of what he said.
+['We had gone here as part of our team outing.', 'It was a good gaming experience.', 'Artifacts were organized well.', 'Some clues for final escape were not so clear.', 'Had a nice time.']
+We had gone here as part of our team outing.
+It was a good gaming experience.
+Artifacts were organized well.
+Some clues for final escape were not so clear.
+Had a nice time.
+['An amazing experience.', 'U dont realize how those 60 mins just pass by.', '.', '.', 'The lady assisting us was very courteous .', "There's a welcome drink and refreshments after the game as well.", 'Definitely recommended!']
+An amazing experience.
+U dont realize how those 60 mins just pass by.
+The lady assisting us was very courteous .
+There's a welcome drink and refreshments after the game as well.
+Definitely recommended!
+['The place is a bit costly, it was 800 for 2 per head for a group of two people.', 'The service is good.', "The puzzle (temple) wasn't that great.", 'Not worth the money.']
+The place is a bit costly, it was 800 for 2 per head for a group of two people.
+The service is good.
+The puzzle (temple) wasn't that great.
+Not worth the money.
+['Wow!', 'It definitely has an old school charm, and worth the selfies.', "It's close to the market place and we'll connected to the metro, so heading in this direction will give you plenty to do.", "However, I must say it isn't as grand as the Mysore Palace and if you've visited other Mogul palaces in the North this might seem rather simple.", 'That being said it provides quite the history lesson as the historians have documented everything rather well on the ground level, fun facts so worth the read for sure!']
+Wow!
+It definitely has an old school charm, and worth the selfies.
+It's close to the market place and we'll connected to the metro, so heading in this direction will give you plenty to do.
+However, I must say it isn't as grand as the Mysore Palace and if you've visited other Mogul palaces in the North this might seem rather simple.
+That being said it provides quite the history lesson as the historians have documented everything rather well on the ground level, fun facts so worth the read for sure!
+['Good place to see the history of India!', "It's a rather small place.", 'It can be add to quick visit when in Bangalore.', 'Very near to the metro station.', 'Can spend up to 15-20 minutes.', 'They charge you 15 bucks.', 'Extra for camera.', 'You can use the phone camera.', 'Many rooms are locked though.']
+Good place to see the history of India!
+It's a rather small place.
+It can be add to quick visit when in Bangalore.
+Very near to the metro station.
+Can spend up to 15-20 minutes.
+They charge you 15 bucks.
+Extra for camera.
+You can use the phone camera.
+Many rooms are locked though.
+["This monument is located in the city centre's vicinity.", 'The place is mostly less crowded and has well-maintained gardens around it.', "It's a good place to enjoy the evening with lots of photo opportunities.", 'Being a Summer palace it is more of a guest house than a palace.', 'It contains a small photo and info museum of Tippu Sultan.', 'Only the hallways are open to the public.', 'The rooms are kept closed due to the fragility of the area.']
+This monument is located in the city centre's vicinity.
+The place is mostly less crowded and has well-maintained gardens around it.
+It's a good place to enjoy the evening with lots of photo opportunities.
+Being a Summer palace it is more of a guest house than a palace.
+It contains a small photo and info museum of Tippu Sultan.
+Only the hallways are open to the public.
+The rooms are kept closed due to the fragility of the area.
+['Great place to take your kids to help them get better with their history background.', 'Or else its a small palace with a minimal entry fee.', 'Wrong to call it a palace, it was like a weekend villa for the king.', "Construction is good, don't expect fancy and expensive accessories, its just the building and small lawn.", 'Hire a guide if required, or else detailed Information are arranged at right places.', 'You can cover this attraction in 30min easily.']
+Great place to take your kids to help them get better with their history background.
+Or else its a small palace with a minimal entry fee.
+Wrong to call it a palace, it was like a weekend villa for the king.
+Construction is good, don't expect fancy and expensive accessories, its just the building and small lawn.
+Hire a guide if required, or else detailed Information are arranged at right places.
+You can cover this attraction in 30min easily.
+['Nice place to spent time in silence.', "If you're a localite then it's good place for photography.", '.', 'spending time in peace.', '.', '.', 'Hanging out.', '.', '.', 'And if you are coming to Bangalore and visiting  here, then it is a one time visiting place.', '.', '.', 'To have a look at the historical monument.', 'Also if you love taking photos.', '.', 'Then u must wear traditional wear and be ready for posing!', '!', '!']
+Nice place to spent time in silence.
+If you're a localite then it's good place for photography.
+spending time in peace.
+Hanging out.
+And if you are coming to Bangalore and visiting  here, then it is a one time visiting place.
+To have a look at the historical monument.
+Also if you love taking photos.
+Then u must wear traditional wear and be ready for posing!
+['There is hardly anything remarkable left to see.', 'The fort has been transformed into a historic and religious place.', 'What remains are the outer boundaries.', 'Significance attached due to birthplace of Tipu Sultan.']
+There is hardly anything remarkable left to see.
+The fort has been transformed into a historic and religious place.
+What remains are the outer boundaries.
+Significance attached due to birthplace of Tipu Sultan.
+['This place is not looked after properly.', 'The fort is big and stretches at both the sides.', 'There are a lot of monkeys here so be careful.', 'There is also a temple right besides the fort and many small houses around the fort.']
+This place is not looked after properly.
+The fort is big and stretches at both the sides.
+There are a lot of monkeys here so be careful.
+There is also a temple right besides the fort and many small houses around the fort.
+['Just a wall.', '.', 'poorly maintained.', '.', 'beware of monkeys.', '.', 'good enough to see from outside on the way.', '.', 'not necessary to visit this place.', '.']
+Just a wall.
+poorly maintained.
+beware of monkeys.
+good enough to see from outside on the way.
+not necessary to visit this place.
+['Must visit place in Devanahalli.', 'You can just look from outside the beautiful preserved fort.', 'If you come in you can visit 1beutiful old Sri venugopala swamy temple.', 'Also you can visit the Siddeshwara temple just opp to it.']
+Must visit place in Devanahalli.
+You can just look from outside the beautiful preserved fort.
+If you come in you can visit 1beutiful old Sri venugopala swamy temple.
+Also you can visit the Siddeshwara temple just opp to it.
+['Fort looks good from out side.', "But we won't be able to make out how to go where to go when we reach their.", 'A person said it covers 3km surroundings.']
+Fort looks good from out side.
+But we won't be able to make out how to go where to go when we reach their.
+A person said it covers 3km surroundings.
+['Visited this place on 25-Dec-2017.', 'Best visited in rainy season so one can get a glimpse of the actual Water Falls.', 'There are more than 300 steps to reach the water falls from parking place.', "Small Children's park at the site is a cool attraction.", 'More than anything else, the drive to this place is nice and takes you through villages and fields.', 'You can have a picnic on the way, if you carry some food along.', 'Gives an opportunity to breath nice and fresh air.', 'Easy getaway to stay away from Bengaluru city noise and dust, for a few hours.', 'Have seen people throwing fruit-juice packs and other plastic bags on the steps and near parking.', 'Please save the environment and dump such things in designated places.', 'I personally picked a lot of trash and put it in proper place.']
+Visited this place on 25-Dec-2017.
+Best visited in rainy season so one can get a glimpse of the actual Water Falls.
+There are more than 300 steps to reach the water falls from parking place.
+Small Children's park at the site is a cool attraction.
+More than anything else, the drive to this place is nice and takes you through villages and fields.
+You can have a picnic on the way, if you carry some food along.
+Gives an opportunity to breath nice and fresh air.
+Easy getaway to stay away from Bengaluru city noise and dust, for a few hours.
+Have seen people throwing fruit-juice packs and other plastic bags on the steps and near parking.
+Please save the environment and dump such things in designated places.
+I personally picked a lot of trash and put it in proper place.
+['A nature spot near Electronics City.', 'Typical tropical zone.', 'A small water-fall makes it a pleasant place to visit.', 'Though not a very elaborate place to spend time, but worth a visit specially during monsoon or rainy season.', 'One can spend an hour at this place, & can be a light get-away-to place.']
+A nature spot near Electronics City.
+Typical tropical zone.
+A small water-fall makes it a pleasant place to visit.
+Though not a very elaborate place to spend time, but worth a visit specially during monsoon or rainy season.
+One can spend an hour at this place, & can be a light get-away-to place.
+['I just love the place.', '.', '.', '.', 'its really relaxing and beautiful.', '.', '.', '.', "reaching here early morning can enhance ur experience as it's very beautiful at that time .", '.', '.', 'Nature lovers would love it .', 'I usually get down in the valley and explore it.', '.', '.', '.', 'its really good .', 'But the place is losing its natural beauty because of heavy littering.', '.', '.', '.', 'I urge all to please help in keeping the place clean .', "It's a humble request."]
+I just love the place.
+its really relaxing and beautiful.
+reaching here early morning can enhance ur experience as it's very beautiful at that time .
+Nature lovers would love it .
+I usually get down in the valley and explore it.
+its really good .
+But the place is losing its natural beauty because of heavy littering.
+I urge all to please help in keeping the place clean .
+It's a humble request.
+['Good place for weekend gateway.', 'Facilities have been improved.', 'This falls is alive only after continuous rain.', 'Plan properly before visiting.', 'Restaurants serves liquor too.']
+Good place for weekend gateway.
+Facilities have been improved.
+This falls is alive only after continuous rain.
+Plan properly before visiting.
+Restaurants serves liquor too.
+['Small pond and nice water falls.', 'Good for tourist to visit this place.', 'Must go to this place once in holidays.', 'Weekends are usually crowded but you have a restaurant attached so u can chill out, grab a cup of coffee or tea n chill out at the water falls.']
+Small pond and nice water falls.
+Good for tourist to visit this place.
+Must go to this place once in holidays.
+Weekends are usually crowded but you have a restaurant attached so u can chill out, grab a cup of coffee or tea n chill out at the water falls.
+['One of the famous and well known temple amongst the locals.', 'Huge Ganesha idol craved out of a single rock fetch the temple more popularity.', 'Nearby bull temple sums this place a must visit to start your city tour usually.', "Start off your tour from Ganesha's blessings, spend about 20-30mins to cover both temples."]
+One of the famous and well known temple amongst the locals.
+Huge Ganesha idol craved out of a single rock fetch the temple more popularity.
+Nearby bull temple sums this place a must visit to start your city tour usually.
+Start off your tour from Ganesha's blessings, spend about 20-30mins to cover both temples.
+["One of the place in OLD BANGALORE'S serenity with modern touch.", 'Also, one of the oldest temple one could find with many local people surrounded.']
+One of the place in OLD BANGALORE'S serenity with modern touch.
+Also, one of the oldest temple one could find with many local people surrounded.
+['you can find peace at bull temple.', 'it is good to spend 1 hour here.', 'mind gets relaxed from busy schedule and gets rejuvenated.']
+you can find peace at bull temple.
+it is good to spend 1 hour here.
+mind gets relaxed from busy schedule and gets rejuvenated.
+['Please plan the timing of your visit.', 'If you intend to visit in evening, then 5:30 pm suits best as Ganapathi Temple reopens at 5:30 pm.', 'If you reach early then you could visit nearby Big Bull Temple which shares a similar philosophy of the entire bull idol carved out of a single huge rock same as Ganapathi idol.', 'Another must visit place in the vicinity would be the Bugle Rock Park.', 'Its a treat to nature lovers with lush green trees and natural rock formations.', 'There are multiple other small temples in the neighbourhood.']
+Please plan the timing of your visit.
+If you intend to visit in evening, then 5:30 pm suits best as Ganapathi Temple reopens at 5:30 pm.
+If you reach early then you could visit nearby Big Bull Temple which shares a similar philosophy of the entire bull idol carved out of a single huge rock same as Ganapathi idol.
+Another must visit place in the vicinity would be the Bugle Rock Park.
+Its a treat to nature lovers with lush green trees and natural rock formations.
+There are multiple other small temples in the neighbourhood.
+['Beautiful place.', 'Loved watching the sunrise in between the horns of the bull and straight on to the shiv ling.', 'Divine experience at makar sankranti.']
+Beautiful place.
+Loved watching the sunrise in between the horns of the bull and straight on to the shiv ling.
+Divine experience at makar sankranti.
